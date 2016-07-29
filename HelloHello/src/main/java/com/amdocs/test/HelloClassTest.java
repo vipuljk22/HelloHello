@@ -6,7 +6,7 @@ import junit.framework.TestCase;
 
 public class HelloClassTest extends TestCase {
 
-		String message = "Hello World!!!";
+		String message = "Hello World!!";
 		HelloClass h = new HelloClass();
 		
 		@Test
@@ -15,3 +15,4 @@ public class HelloClassTest extends TestCase {
 		}
 
 	}
+
